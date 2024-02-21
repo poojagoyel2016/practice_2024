@@ -1,0 +1,984 @@
+2023-10-26 14:20:04,538 ************************** Test Execution Started ************************************ 
+2023-10-26 14:20:11,198 Facebook login test : Test Skipped 
+2023-10-26 14:20:11,472 Total number of testcases : 1 
+2023-10-26 14:20:11,472 Number of testcases Passed : 0 
+2023-10-26 14:20:11,472 Number of testcases Failed : 0 
+2023-10-26 14:20:11,472 Number of testcases Skipped  : 1 
+2023-10-26 14:20:11,473 Mail sending toggel is set to false 
+2023-10-26 14:20:11,475 Mail sent : false 
+2023-10-26 14:20:11,475 ************************** Test Execution Finished ************************************ 
+2023-10-26 14:36:48,247 ************************** Test Execution Started ************************************ 
+2023-10-26 14:36:50,980 Facebook login test : Test Skipped 
+2023-10-26 14:36:51,172 Total number of testcases : 1 
+2023-10-26 14:36:51,173 Number of testcases Passed : 0 
+2023-10-26 14:36:51,173 Number of testcases Failed : 0 
+2023-10-26 14:36:51,173 Number of testcases Skipped  : 1 
+2023-10-26 14:36:51,176 Mail sending toggel is set to false 
+2023-10-26 14:36:51,176 Mail sent : false 
+2023-10-26 14:36:51,176 ************************** Test Execution Finished ************************************ 
+2023-10-26 14:39:32,453 ************************** Test Execution Started ************************************ 
+2023-10-26 14:39:32,465 Facebook login test: Test started 
+2023-10-26 14:39:35,228 Facebook login test : Test Failed : session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 118.0.5993.118 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CHQS-4CNJZH3', ip: '10.20.205.123', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	GetHandleVerifier [0x0105A813+48355]
+	(No symbol) [0x00FEC4B1]
+	(No symbol) [0x00EF5358]
+	(No symbol) [0x00F161AC]
+	(No symbol) [0x00F11EF3]
+	(No symbol) [0x00F10579]
+	(No symbol) [0x00F40C55]
+	(No symbol) [0x00F4093C]
+	(No symbol) [0x00F3A536]
+	(No symbol) [0x00F182DC]
+	(No symbol) [0x00F193DD]
+	GetHandleVerifier [0x012BAABD+2539405]
+	GetHandleVerifier [0x012FA78F+2800735]
+	GetHandleVerifier [0x012F456C+2775612]
+	GetHandleVerifier [0x010E51E0+616112]
+	(No symbol) [0x00FF5F8C]
+	(No symbol) [0x00FF2328]
+	(No symbol) [0x00FF240B]
+	(No symbol) [0x00FE4FF7]
+	BaseThreadInitThunk [0x763C7BA9+25]
+	RtlInitializeExceptionChain [0x7776BD3B+107]
+	RtlClearBits [0x7776BCBF+191]
+ 
+2023-10-26 14:39:35,232 Facebook login test : Test Failed : WebDriver has not been set, Please set WebDriver instance by WebDriverContext.setDriver... 
+2023-11-15 11:36:54,070 ************************** Test Execution Started ************************************ 
+2023-11-15 11:36:58,643 ValidateTN_IntradoVPC: Test started 
+2023-11-15 11:37:55,567 ************************** Test Execution Started ************************************ 
+2023-11-15 11:37:57,624 ValidateTN_IntradoVPC: Test started 
+2023-11-15 11:38:29,092 ValidateTN_IntradoVPC : Test Passed 
+2023-11-15 11:38:29,466 Total number of testcases : 1 
+2023-11-15 11:38:29,466 Number of testcases Passed : 1 
+2023-11-15 11:38:29,466 Number of testcases Failed : 0 
+2023-11-15 11:38:29,466 Number of testcases Skipped  : 0 
+2023-11-15 11:38:29,469 Mail sending toggel is set to false 
+2023-11-15 11:38:29,469 Mail sent : false 
+2023-11-15 11:38:29,469 ************************** Test Execution Finished ************************************ 
+2023-11-15 11:38:40,224 ************************** Test Execution Started ************************************ 
+2023-11-15 11:38:42,083 ValidateTN_IntradoVPC: Test started 
+2023-11-15 11:42:41,670 ************************** Test Execution Started ************************************ 
+2023-11-15 11:42:43,960 ValidateTN_IntradoVPC: Test started 
+2023-11-15 11:43:01,017 ValidateTN_IntradoVPC : Test Passed 
+2023-11-15 11:43:01,497 Total number of testcases : 1 
+2023-11-15 11:43:01,497 Number of testcases Passed : 1 
+2023-11-15 11:43:01,497 Number of testcases Failed : 0 
+2023-11-15 11:43:01,497 Number of testcases Skipped  : 0 
+2023-11-15 11:43:01,504 Mail sending toggel is set to false 
+2023-11-15 11:43:01,505 Mail sent : false 
+2023-11-15 11:43:01,505 ************************** Test Execution Finished ************************************ 
+2023-11-15 12:36:39,872 ************************** Test Execution Started ************************************ 
+2023-11-15 12:36:42,090 ValidateTN_IntradoVPC: Test started 
+2023-11-15 12:37:25,836 ValidateTN_IntradoVPC : Test Passed 
+2023-11-15 12:37:25,856 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CHQS-4CNJZH3', ip: '10.20.205.123', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: driver.version: RemoteWebDriver 
+2023-11-15 12:38:50,872 ************************** Test Execution Started ************************************ 
+2023-11-15 12:38:53,946 ValidateTN_IntradoVPC: Test started 
+2023-11-15 12:39:51,437 ************************** Test Execution Started ************************************ 
+2023-11-15 12:39:53,579 ValidateTN_IntradoVPC: Test started 
+2023-11-15 12:40:18,557 ValidateTN_IntradoVPC : Test Passed 
+2023-11-15 12:40:19,166 Total number of testcases : 1 
+2023-11-15 12:40:19,167 Number of testcases Passed : 1 
+2023-11-15 12:40:19,167 Number of testcases Failed : 0 
+2023-11-15 12:40:19,167 Number of testcases Skipped  : 0 
+2023-11-15 12:40:19,171 Mail sending toggel is set to false 
+2023-11-15 12:40:19,171 Mail sent : false 
+2023-11-15 12:40:19,172 ************************** Test Execution Finished ************************************ 
+2023-11-15 12:43:18,538 ************************** Test Execution Started ************************************ 
+2023-11-15 12:43:20,865 ValidateTN_IntradoVPC: Test started 
+2023-11-15 12:45:06,140 ************************** Test Execution Started ************************************ 
+2023-11-15 12:45:08,551 ValidateTN_IntradoVPC: Test started 
+2023-11-15 12:45:41,722 ValidateTN_IntradoVPC : Test Passed 
+2023-11-15 12:45:42,609 Total number of testcases : 1 
+2023-11-15 12:45:42,610 Number of testcases Passed : 1 
+2023-11-15 12:45:42,610 Number of testcases Failed : 0 
+2023-11-15 12:45:42,610 Number of testcases Skipped  : 0 
+2023-11-15 12:45:42,614 Mail sending toggel is set to false 
+2023-11-15 12:45:42,615 Mail sent : false 
+2023-11-15 12:45:42,615 ************************** Test Execution Finished ************************************ 
+2023-11-15 12:48:08,600 ************************** Test Execution Started ************************************ 
+2023-11-15 12:48:10,673 ValidateTN_IntradoVPC: Test started 
+2023-11-15 12:48:35,289 ValidateTN_IntradoVPC : Test Failed : The following asserts failed:
+	expected [ (224)-316-6845] but found [(224) 316-6845] 
+2023-11-15 12:48:35,900 Total number of testcases : 1 
+2023-11-15 12:48:35,901 Number of testcases Passed : 0 
+2023-11-15 12:48:35,901 Number of testcases Failed : 1 
+2023-11-15 12:48:35,901 Number of testcases Skipped  : 0 
+2023-11-15 12:48:35,907 Mail sending toggel is set to false 
+2023-11-15 12:48:35,907 Mail sent : false 
+2023-11-15 12:48:35,907 ************************** Test Execution Finished ************************************ 
+2023-11-15 12:50:56,682 ************************** Test Execution Started ************************************ 
+2023-11-15 12:50:58,880 ValidateTN_IntradoVPC: Test started 
+2023-11-15 12:51:26,023 ValidateTN_IntradoVPC : Test Passed 
+2023-11-15 12:51:26,474 Total number of testcases : 1 
+2023-11-15 12:51:26,474 Number of testcases Passed : 1 
+2023-11-15 12:51:26,474 Number of testcases Failed : 0 
+2023-11-15 12:51:26,474 Number of testcases Skipped  : 0 
+2023-11-15 12:51:26,478 Mail sending toggel is set to false 
+2023-11-15 12:51:26,478 Mail sent : false 
+2023-11-15 12:51:26,478 ************************** Test Execution Finished ************************************ 
+2023-11-15 12:54:31,640 ************************** Test Execution Started ************************************ 
+2023-11-15 12:54:33,769 ValidateTN_IntradoVPC: Test started 
+2023-11-15 12:56:52,102 ************************** Test Execution Started ************************************ 
+2023-11-15 12:56:54,187 ValidateTN_IntradoVPC: Test started 
+2023-11-15 12:58:07,498 ************************** Test Execution Started ************************************ 
+2023-11-15 12:58:09,478 ValidateTN_IntradoVPC: Test started 
+2023-11-15 12:59:01,924 ************************** Test Execution Started ************************************ 
+2023-11-15 12:59:03,937 ValidateTN_IntradoVPC: Test started 
+2023-11-15 12:59:56,196 ValidateTN_IntradoVPC : Test Passed 
+2023-11-15 12:59:56,200 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CHQS-4CNJZH3', ip: '192.168.89.184', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: driver.version: RemoteWebDriver 
+2023-11-15 13:04:17,067 ************************** Test Execution Started ************************************ 
+2023-11-15 13:04:19,094 ValidateTN_IntradoVPC: Test started 
+2023-11-15 13:05:11,454 ValidateTN_IntradoVPC : Test Passed 
+2023-11-15 13:05:11,458 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CHQS-4CNJZH3', ip: '192.168.89.184', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: driver.version: RemoteWebDriver 
+2023-11-15 13:11:53,796 ************************** Test Execution Started ************************************ 
+2023-11-15 13:11:55,880 ValidateTN_IntradoVPC: Test started 
+2023-11-15 13:12:50,522 ValidateTN_IntradoVPC : Test Passed 
+2023-11-15 13:12:50,527 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CHQS-4CNJZH3', ip: '192.168.89.184', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: driver.version: RemoteWebDriver 
+2023-11-15 13:47:14,727 ************************** Test Execution Started ************************************ 
+2023-11-15 13:47:18,731 ValidateTN_IntradoVPC: Test started 
+2023-11-15 13:47:19,032 ValidateTN_IntradoVPC : Test Failed : org/apache/poi/util/POILogFactory 
+2023-11-15 13:47:19,041 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61529}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61529/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 13:48:20,599 ************************** Test Execution Started ************************************ 
+2023-11-15 13:48:23,582 ValidateTN_IntradoVPC: Test started 
+2023-11-15 13:48:23,873 ValidateTN_IntradoVPC : Test Failed : org/apache/poi/util/POILogFactory 
+2023-11-15 13:48:23,879 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61612}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61612/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 13:49:29,764 ************************** Test Execution Started ************************************ 
+2023-11-15 13:49:33,015 ValidateTN_IntradoVPC: Test started 
+2023-11-15 13:49:33,440 ValidateTN_IntradoVPC : Test Failed : org/apache/poi/util/POILogFactory 
+2023-11-15 13:49:33,450 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52459}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52459/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 13:49:47,192 ************************** Test Execution Started ************************************ 
+2023-11-15 13:49:51,853 ValidateTN_IntradoVPC: Test started 
+2023-11-15 13:50:23,263 ************************** Test Execution Started ************************************ 
+2023-11-15 13:50:27,896 ValidateTN_IntradoVPC: Test started 
+2023-11-15 13:52:27,311 ************************** Test Execution Started ************************************ 
+2023-11-15 13:52:31,171 ValidateTN_IntradoVPC: Test started 
+2023-11-15 13:55:06,680 ************************** Test Execution Started ************************************ 
+2023-11-15 13:55:09,645 ValidateTN_IntradoVPC: Test started 
+2023-11-15 13:55:10,016 ValidateTN_IntradoVPC : Test Failed : org/apache/poi/util/POILogFactory 
+2023-11-15 13:55:10,032 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62943}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62943/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 13:55:57,519 ************************** Test Execution Started ************************************ 
+2023-11-15 13:56:00,657 ValidateTN_IntradoVPC: Test started 
+2023-11-15 13:56:00,963 ValidateTN_IntradoVPC : Test Failed : org/apache/poi/util/POILogFactory 
+2023-11-15 13:56:00,971 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54796}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54796/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 13:56:31,648 ************************** Test Execution Started ************************************ 
+2023-11-15 13:56:34,754 ValidateTN_IntradoVPC: Test started 
+2023-11-15 13:56:38,741 ValidateTN_IntradoVPC : Test Failed : org/apache/poi/util/POILogFactory 
+2023-11-15 13:56:38,751 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55059}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55059/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 13:57:03,396 ************************** Test Execution Started ************************************ 
+2023-11-15 13:57:06,526 ValidateTN_IntradoVPC: Test started 
+2023-11-15 13:57:07,074 ValidateTN_IntradoVPC : Test Failed : org/apache/poi/util/POILogFactory 
+2023-11-15 13:57:07,089 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55104}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55104/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 13:57:14,870 ************************** Test Execution Started ************************************ 
+2023-11-15 13:57:19,208 ValidateTN_IntradoVPC: Test started 
+2023-11-15 13:58:27,821 ************************** Test Execution Started ************************************ 
+2023-11-15 13:58:32,530 ValidateTN_IntradoVPC: Test started 
+2023-11-15 14:38:59,254 ************************** Test Execution Started ************************************ 
+2023-11-15 14:39:02,375 ValidateTN_IntradoVPC: Test started 
+2023-11-15 14:39:20,977 ValidateTN_IntradoVPC : Test Passed 
+2023-11-15 14:39:20,989 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60167}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60167/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 14:39:51,366 ************************** Test Execution Started ************************************ 
+2023-11-15 14:39:54,423 ValidateTN_IntradoVPC: Test started 
+2023-11-15 14:39:54,748 ValidateTN_IntradoVPC : Test Failed : org/apache/poi/util/POILogFactory 
+2023-11-15 14:39:54,754 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60332}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60332/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 14:40:28,015 ************************** Test Execution Started ************************************ 
+2023-11-15 14:40:30,846 ValidateTN_IntradoVPC: Test started 
+2023-11-15 14:40:31,129 ValidateTN_IntradoVPC : Test Failed : org/apache/poi/util/POILogFactory 
+2023-11-15 14:40:31,135 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60386}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60386/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 14:40:50,703 ************************** Test Execution Started ************************************ 
+2023-11-15 14:40:53,613 ValidateTN_IntradoVPC: Test started 
+2023-11-15 14:40:53,928 ValidateTN_IntradoVPC : Test Failed : org/apache/poi/util/POILogFactory 
+2023-11-15 14:40:53,938 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60430}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60430/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 14:41:30,700 ************************** Test Execution Started ************************************ 
+2023-11-15 14:41:33,895 ValidateTN_IntradoVPC: Test started 
+2023-11-15 14:41:34,398 ValidateTN_IntradoVPC : Test Failed : org/apache/poi/util/POILogFactory 
+2023-11-15 14:41:34,406 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62716}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62716/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 14:41:49,462 ************************** Test Execution Started ************************************ 
+2023-11-15 14:41:53,452 ValidateTN_IntradoVPC: Test started 
+2023-11-15 14:41:53,932 ValidateTN_IntradoVPC : Test Failed : org/apache/poi/util/POILogFactory 
+2023-11-15 14:41:53,940 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62762}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62762/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 14:42:52,579 ************************** Test Execution Started ************************************ 
+2023-11-15 14:42:56,427 ValidateTN_IntradoVPC: Test started 
+2023-11-15 14:42:56,806 ValidateTN_IntradoVPC : Test Failed : org/apache/poi/util/POILogFactory 
+2023-11-15 14:42:56,814 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62848}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62848/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 14:43:38,222 ************************** Test Execution Started ************************************ 
+2023-11-15 14:43:41,233 ValidateTN_IntradoVPC: Test started 
+2023-11-15 14:43:41,743 ValidateTN_IntradoVPC : Test Failed : org/apache/poi/util/POILogFactory 
+2023-11-15 14:43:41,751 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62915}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62915/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 14:43:53,475 ************************** Test Execution Started ************************************ 
+2023-11-15 14:43:57,859 ValidateTN_IntradoVPC: Test started 
+2023-11-15 14:53:42,670 ************************** Test Execution Started ************************************ 
+2023-11-15 14:53:50,150 ValidateTN_IntradoVPC: Test started 
+2023-11-15 14:53:50,759 ValidateTN_IntradoVPC : Test Passed 
+2023-11-15 14:53:50,772 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64496}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64496/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 14:54:32,391 ************************** Test Execution Started ************************************ 
+2023-11-15 14:54:36,676 ValidateTN_IntradoVPC: Test started 
+2023-11-15 14:54:56,820 ValidateTN_IntradoVPC : Test Passed 
+2023-11-15 14:54:56,834 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64750}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64750/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 14:55:43,089 ************************** Test Execution Started ************************************ 
+2023-11-15 14:55:46,585 ValidateTN_IntradoVPC: Test started 
+2023-11-15 14:55:47,001 ValidateTN_IntradoVPC : Test Passed 
+2023-11-15 14:55:47,015 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65168}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65168/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 14:58:37,146 ************************** Test Execution Started ************************************ 
+2023-11-15 14:58:40,014 ValidateTN_IntradoVPC: Test started 
+2023-11-15 14:58:59,872 ValidateTN_IntradoVPC : Test Passed 
+2023-11-15 14:58:59,885 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52637}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52637/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 14:59:13,366 ************************** Test Execution Started ************************************ 
+2023-11-15 14:59:16,756 ValidateTN_IntradoVPC: Test started 
+2023-11-15 14:59:38,224 ValidateTN_IntradoVPC : Test Passed 
+2023-11-15 14:59:38,232 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53005}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53005/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 14:59:50,653 ************************** Test Execution Started ************************************ 
+2023-11-15 14:59:55,686 ValidateTN_IntradoVPC: Test started 
+2023-11-15 15:00:10,167 ValidateTN_IntradoVPC : Test Passed 
+2023-11-15 15:00:10,175 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53502}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53502/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 15:00:18,206 ************************** Test Execution Started ************************************ 
+2023-11-15 15:00:21,974 ValidateTN_IntradoVPC: Test started 
+2023-11-15 15:02:11,035 ValidateTN_IntradoVPC : Test Passed 
+2023-11-15 15:02:11,053 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53624}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53624/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 15:04:58,702 ************************** Test Execution Started ************************************ 
+2023-11-15 15:05:03,558 ValidateTN_IntradoVPC: Test started 
+2023-11-15 15:05:22,456 ValidateTN_IntradoVPC : Test Passed 
+2023-11-15 15:05:22,468 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61990}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61990/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 15:05:41,876 ************************** Test Execution Started ************************************ 
+2023-11-15 15:05:45,960 ValidateTN_IntradoVPC: Test started 
+2023-11-15 15:07:53,196 ValidateTN_IntradoVPC : Test Passed 
+2023-11-15 15:07:53,201 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62240}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62240/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 15:15:16,079 ************************** Test Execution Started ************************************ 
+2023-11-15 15:15:19,451 ValidateTN_IntradoVPC: Test started 
+2023-11-15 15:15:37,996 ValidateTN_IntradoVPC : Test Passed 
+2023-11-15 15:15:38,008 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53488}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53488/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 15:15:54,160 ************************** Test Execution Started ************************************ 
+2023-11-15 15:15:57,313 ValidateTN_IntradoVPC: Test started 
+2023-11-15 15:16:14,587 ValidateTN_IntradoVPC : Test Passed 
+2023-11-15 15:16:14,597 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53716}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53716/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 15:17:29,264 ************************** Test Execution Started ************************************ 
+2023-11-15 15:17:32,502 ValidateTN_IntradoVPC: Test started 
+2023-11-15 15:20:04,711 ValidateTN_IntradoVPC : Test Passed 
+2023-11-15 15:20:04,721 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58006}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58006/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 17:03:09,533 ************************** Test Execution Started ************************************ 
+2023-11-15 17:03:13,799 ValidateTN_IntradoVPC: Test started 
+2023-11-15 17:03:32,911 ValidateTN_IntradoVPC : Test Passed 
+2023-11-15 17:03:32,926 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59063}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59063/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-15 17:03:54,011 ************************** Test Execution Started ************************************ 
+2023-11-15 17:03:58,330 ValidateTN_IntradoVPC: Test started 
+2023-11-15 17:06:16,760 ValidateTN_IntradoVPC : Test Passed 
+2023-11-15 17:06:16,772 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.106, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58237}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58237/devtoo..., se:cdpVersion: 119.0.6045.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-16 09:36:23,806 ************************** Test Execution Started ************************************ 
+2023-11-16 09:36:28,772 ValidateTN_IntradoVPC: Test started 
+2023-11-16 09:36:28,847 ValidateTN_IntradoVPC : Test Failed : org/apache/poi/util/POILogFactory 
+2023-11-16 09:36:29,343 Total number of testcases : 1 
+2023-11-16 09:36:29,343 Number of testcases Passed : 0 
+2023-11-16 09:36:29,344 Number of testcases Failed : 1 
+2023-11-16 09:36:29,344 Number of testcases Skipped  : 0 
+2023-11-16 09:36:29,344 ************************** Test Execution Finished ************************************ 
+2023-11-16 09:43:40,755 ************************** Test Execution Started ************************************ 
+2023-11-16 09:43:45,401 ValidateTN_IntradoVPC: Test started 
+2023-11-16 09:43:45,492 ValidateTN_IntradoVPC : Test Failed : org/apache/poi/util/POILogFactory 
+2023-11-16 09:43:45,972 Total number of testcases : 1 
+2023-11-16 09:43:45,972 Number of testcases Passed : 0 
+2023-11-16 09:43:45,972 Number of testcases Failed : 1 
+2023-11-16 09:43:45,972 Number of testcases Skipped  : 0 
+2023-11-16 09:43:45,972 ************************** Test Execution Finished ************************************ 
+2023-11-16 09:46:35,697 ************************** Test Execution Started ************************************ 
+2023-11-16 09:46:41,295 ValidateTN_IntradoVPC: Test started 
+2023-11-16 09:46:41,379 ValidateTN_IntradoVPC : Test Failed : org/apache/poi/util/POILogFactory 
+2023-11-16 09:46:41,997 Total number of testcases : 1 
+2023-11-16 09:46:41,997 Number of testcases Passed : 0 
+2023-11-16 09:46:41,997 Number of testcases Failed : 1 
+2023-11-16 09:46:41,997 Number of testcases Skipped  : 0 
+2023-11-16 09:46:41,997 ************************** Test Execution Finished ************************************ 
+2023-11-16 09:49:36,363 ************************** Test Execution Started ************************************ 
+2023-11-16 09:49:40,731 ValidateTN_IntradoVPC: Test started 
+2023-11-16 09:49:40,807 ValidateTN_IntradoVPC : Test Failed : org/apache/poi/util/POILogFactory 
+2023-11-16 09:49:41,379 Total number of testcases : 1 
+2023-11-16 09:49:41,379 Number of testcases Passed : 0 
+2023-11-16 09:49:41,379 Number of testcases Failed : 1 
+2023-11-16 09:49:41,380 Number of testcases Skipped  : 0 
+2023-11-16 09:49:41,380 ************************** Test Execution Finished ************************************ 
+2023-11-16 09:53:03,349 ************************** Test Execution Started ************************************ 
+2023-11-16 09:53:07,222 ValidateTN_IntradoVPC: Test started 
+2023-11-16 09:55:17,531 ValidateTN_IntradoVPC : Test Passed 
+2023-11-16 09:55:18,090 Total number of testcases : 1 
+2023-11-16 09:55:18,090 Number of testcases Passed : 1 
+2023-11-16 09:55:18,090 Number of testcases Failed : 0 
+2023-11-16 09:55:18,090 Number of testcases Skipped  : 0 
+2023-11-16 09:55:18,091 ************************** Test Execution Finished ************************************ 
+2023-11-16 09:57:18,572 ************************** Test Execution Started ************************************ 
+2023-11-16 09:57:22,781 ValidateTN_IntradoVPC: Test started 
+2023-11-16 09:59:27,325 ValidateTN_IntradoVPC : Test Passed 
+2023-11-16 09:59:27,715 Total number of testcases : 1 
+2023-11-16 09:59:27,715 Number of testcases Passed : 1 
+2023-11-16 09:59:27,715 Number of testcases Failed : 0 
+2023-11-16 09:59:27,715 Number of testcases Skipped  : 0 
+2023-11-16 09:59:27,715 ************************** Test Execution Finished ************************************ 
+2023-11-16 10:02:32,744 ************************** Test Execution Started ************************************ 
+2023-11-16 10:02:35,692 ValidateTN_IntradoVPC: Test started 
+2023-11-16 10:03:03,523 ValidateTN_IntradoVPC : Test Passed 
+2023-11-16 10:03:04,097 Total number of testcases : 1 
+2023-11-16 10:03:04,098 Number of testcases Passed : 1 
+2023-11-16 10:03:04,098 Number of testcases Failed : 0 
+2023-11-16 10:03:04,098 Number of testcases Skipped  : 0 
+2023-11-16 10:03:04,098 ************************** Test Execution Finished ************************************ 
+2023-11-16 10:03:58,878 ************************** Test Execution Started ************************************ 
+2023-11-16 10:04:02,299 ValidateTN_IntradoVPC: Test started 
+2023-11-16 10:06:12,381 ValidateTN_IntradoVPC : Test Passed 
+2023-11-16 10:06:12,900 Total number of testcases : 1 
+2023-11-16 10:06:12,901 Number of testcases Passed : 1 
+2023-11-16 10:06:12,901 Number of testcases Failed : 0 
+2023-11-16 10:06:12,901 Number of testcases Skipped  : 0 
+2023-11-16 10:06:12,901 ************************** Test Execution Finished ************************************ 
+2023-11-16 16:33:23,297 ************************** Test Execution Started ************************************ 
+2023-11-16 16:33:27,376 ValidateTN_IntradoVPC: Test started 
+2023-11-16 16:36:00,321 ValidateTN_IntradoVPC : Test Passed 
+2023-11-16 16:36:01,807 Total number of testcases : 1 
+2023-11-16 16:36:01,807 Number of testcases Passed : 1 
+2023-11-16 16:36:01,807 Number of testcases Failed : 0 
+2023-11-16 16:36:01,807 Number of testcases Skipped  : 0 
+2023-11-16 16:36:01,807 ************************** Test Execution Finished ************************************ 
+2023-11-16 16:37:30,881 ************************** Test Execution Started ************************************ 
+2023-11-16 16:37:33,801 ValidateTN_IntradoVPC: Test started 
+2023-11-16 16:38:38,093 ValidateTN_IntradoVPC : Test Passed 
+2023-11-16 16:38:39,543 Total number of testcases : 1 
+2023-11-16 16:38:39,544 Number of testcases Passed : 1 
+2023-11-16 16:38:39,544 Number of testcases Failed : 0 
+2023-11-16 16:38:39,544 Number of testcases Skipped  : 0 
+2023-11-16 16:38:39,544 ************************** Test Execution Finished ************************************ 
+2023-11-16 16:40:28,825 ************************** Test Execution Started ************************************ 
+2023-11-16 16:40:31,579 ValidateTN_IntradoVPC: Test started 
+2023-11-16 16:43:05,779 ValidateTN_IntradoVPC : Test Passed 
+2023-11-16 16:43:06,613 Total number of testcases : 1 
+2023-11-16 16:43:06,614 Number of testcases Passed : 1 
+2023-11-16 16:43:06,614 Number of testcases Failed : 0 
+2023-11-16 16:43:06,614 Number of testcases Skipped  : 0 
+2023-11-16 16:43:06,614 ************************** Test Execution Finished ************************************ 
+2023-11-20 13:21:25,920 ************************** Test Execution Started ************************************ 
+2023-11-20 13:21:29,451 ValidateTN_IntradoVPC: Test started 
+2023-11-20 13:23:30,403 ValidateTN_IntradoVPC : Test Passed 
+2023-11-20 13:23:30,761 Total number of testcases : 1 
+2023-11-20 13:23:30,761 Number of testcases Passed : 1 
+2023-11-20 13:23:30,761 Number of testcases Failed : 0 
+2023-11-20 13:23:30,761 Number of testcases Skipped  : 0 
+2023-11-20 13:23:30,761 ************************** Test Execution Finished ************************************ 
+2023-11-20 13:25:13,757 ************************** Test Execution Started ************************************ 
+2023-11-20 13:25:16,568 ValidateTN_IntradoVPC: Test started 
+2023-11-20 13:28:05,637 ValidateTN_IntradoVPC : Test Passed 
+2023-11-20 13:28:05,642 ValidateTN_IntradoVPC : Test Failed : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.160, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\NPAPPI~1.COM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49269}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49269/devtoo..., se:cdpVersion: 119.0.6045.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2023-11-21 14:37:38,414 ************************** Test Execution Started ************************************ 
+2023-11-21 14:37:42,426 ValidateTN_IntradoVPC: Test started 
+2023-11-21 14:38:58,785 ValidateTN_IntradoVPC : Test Passed 
+2023-11-21 14:38:59,104 Total number of testcases : 1 
+2023-11-21 14:38:59,104 Number of testcases Passed : 1 
+2023-11-21 14:38:59,104 Number of testcases Failed : 0 
+2023-11-21 14:38:59,104 Number of testcases Skipped  : 0 
+2023-11-21 14:38:59,104 ************************** Test Execution Finished ************************************ 
+2023-11-22 09:45:03,906 ************************** Test Execution Started ************************************ 
+2023-11-22 09:45:07,544 ValidateTN_IntradoVPC: Test started 
+2023-11-22 09:46:49,100 ValidateTN_IntradoVPC : Test Passed 
+2023-11-22 09:46:49,379 Total number of testcases : 1 
+2023-11-22 09:46:49,379 Number of testcases Passed : 1 
+2023-11-22 09:46:49,379 Number of testcases Failed : 0 
+2023-11-22 09:46:49,379 Number of testcases Skipped  : 0 
+2023-11-22 09:46:49,379 ************************** Test Execution Finished ************************************ 
+2023-11-22 09:47:01,669 ************************** Test Execution Started ************************************ 
+2023-11-22 09:47:04,156 ValidateTN_IntradoVPC: Test started 
+2023-11-22 09:48:44,041 ValidateTN_IntradoVPC : Test Passed 
+2023-11-22 09:48:44,822 Total number of testcases : 1 
+2023-11-22 09:48:44,822 Number of testcases Passed : 1 
+2023-11-22 09:48:44,822 Number of testcases Failed : 0 
+2023-11-22 09:48:44,823 Number of testcases Skipped  : 0 
+2023-11-22 09:48:44,823 ************************** Test Execution Finished ************************************ 
+2023-11-22 09:52:57,203 ************************** Test Execution Started ************************************ 
+2023-11-22 09:52:59,632 ValidateTN_IntradoVPC: Test started 
+2023-11-22 09:54:49,821 ValidateTN_IntradoVPC : Test Passed 
+2023-11-22 09:54:50,319 Total number of testcases : 1 
+2023-11-22 09:54:50,319 Number of testcases Passed : 1 
+2023-11-22 09:54:50,319 Number of testcases Failed : 0 
+2023-11-22 09:54:50,319 Number of testcases Skipped  : 0 
+2023-11-22 09:54:50,335 ************************** Test Execution Finished ************************************ 
+2023-11-27 15:44:50,963 ************************** Test Execution Started ************************************ 
+2023-11-27 15:44:55,010 ValidateTN_IntradoVPC: Test started 
+2023-11-27 15:45:10,588 ValidateTN_IntradoVPC : Test Passed 
+2023-11-27 15:45:11,938 Total number of testcases : 1 
+2023-11-27 15:45:11,938 Number of testcases Passed : 1 
+2023-11-27 15:45:11,938 Number of testcases Failed : 0 
+2023-11-27 15:45:11,938 Number of testcases Skipped  : 0 
+2023-11-27 15:45:11,938 ************************** Test Execution Finished ************************************ 
+2023-11-27 15:45:37,257 ************************** Test Execution Started ************************************ 
+2023-11-27 15:45:40,189 ValidateTN_IntradoVPC: Test started 
+2023-11-27 15:47:51,172 ValidateTN_IntradoVPC : Test Passed 
+2023-11-27 15:47:52,011 Total number of testcases : 1 
+2023-11-27 15:47:52,011 Number of testcases Passed : 1 
+2023-11-27 15:47:52,012 Number of testcases Failed : 0 
+2023-11-27 15:47:52,012 Number of testcases Skipped  : 0 
+2023-11-27 15:47:52,012 ************************** Test Execution Finished ************************************ 
+2023-11-27 15:48:47,941 ************************** Test Execution Started ************************************ 
+2023-11-27 15:48:54,999 ValidateTN_IntradoVPC: Test started 
+2023-11-27 15:49:04,173 ValidateTN_IntradoVPC : Test Passed 
+2023-11-27 15:49:06,214 Total number of testcases : 1 
+2023-11-27 15:49:06,214 Number of testcases Passed : 1 
+2023-11-27 15:49:06,214 Number of testcases Failed : 0 
+2023-11-27 15:49:06,214 Number of testcases Skipped  : 0 
+2023-11-27 15:49:06,214 ************************** Test Execution Finished ************************************ 
+2023-11-27 15:49:31,803 ************************** Test Execution Started ************************************ 
+2023-11-27 15:49:35,616 ValidateTN_IntradoVPC: Test started 
+2023-11-27 15:51:15,826 ValidateTN_IntradoVPC : Test Passed 
+2023-11-27 15:51:16,484 Total number of testcases : 1 
+2023-11-27 15:51:16,485 Number of testcases Passed : 1 
+2023-11-27 15:51:16,485 Number of testcases Failed : 0 
+2023-11-27 15:51:16,485 Number of testcases Skipped  : 0 
+2023-11-27 15:51:16,485 ************************** Test Execution Finished ************************************ 
+2023-12-15 14:08:23,378 ************************** Test Execution Started ************************************ 
+2023-12-15 14:08:30,812 ValidateTN_IntradoVPC: Test started 
+2023-12-15 14:08:40,575 ValidateTN_IntradoVPC : Test Passed 
+2023-12-15 14:08:41,390 Total number of testcases : 1 
+2023-12-15 14:08:41,390 Number of testcases Passed : 1 
+2023-12-15 14:08:41,390 Number of testcases Failed : 0 
+2023-12-15 14:08:41,390 Number of testcases Skipped  : 0 
+2023-12-15 14:08:41,390 ************************** Test Execution Finished ************************************ 
+2023-12-15 14:15:41,621 ************************** Test Execution Started ************************************ 
+2023-12-15 14:15:44,310 ValidateTN_IntradoVPC: Test started 
+2023-12-15 14:16:55,514 ValidateTN_IntradoVPC : Test Passed 
+2023-12-15 14:16:56,230 Total number of testcases : 1 
+2023-12-15 14:16:56,231 Number of testcases Passed : 1 
+2023-12-15 14:16:56,231 Number of testcases Failed : 0 
+2023-12-15 14:16:56,231 Number of testcases Skipped  : 0 
+2023-12-15 14:16:56,231 ************************** Test Execution Finished ************************************ 
+2023-12-19 13:34:50,978 ************************** Test Execution Started ************************************ 
+2023-12-19 13:35:02,906 ValidateTN_IntradoVPC: Test started 
+2023-12-19 13:35:38,901 ValidateTN_IntradoVPC : Test Passed 
+2023-12-19 13:35:40,192 Total number of testcases : 1 
+2023-12-19 13:35:40,192 Number of testcases Passed : 1 
+2023-12-19 13:35:40,192 Number of testcases Failed : 0 
+2023-12-19 13:35:40,192 Number of testcases Skipped  : 0 
+2023-12-19 13:35:40,192 ************************** Test Execution Finished ************************************ 
+2023-12-19 13:37:44,457 ************************** Test Execution Started ************************************ 
+2023-12-19 13:37:48,286 ValidateTN_IntradoVPC: Test started 
+2023-12-19 13:38:19,232 ValidateTN_IntradoVPC : Test Passed 
+2023-12-19 13:38:20,158 Total number of testcases : 1 
+2023-12-19 13:38:20,158 Number of testcases Passed : 1 
+2023-12-19 13:38:20,158 Number of testcases Failed : 0 
+2023-12-19 13:38:20,158 Number of testcases Skipped  : 0 
+2023-12-19 13:38:20,158 ************************** Test Execution Finished ************************************ 
+2023-12-19 13:39:56,186 ************************** Test Execution Started ************************************ 
+2023-12-19 13:40:00,634 ValidateTN_IntradoVPC: Test started 
+2023-12-19 13:40:35,430 ValidateTN_IntradoVPC : Test Passed 
+2023-12-19 13:40:36,427 Total number of testcases : 1 
+2023-12-19 13:40:36,427 Number of testcases Passed : 1 
+2023-12-19 13:40:36,427 Number of testcases Failed : 0 
+2023-12-19 13:40:36,427 Number of testcases Skipped  : 0 
+2023-12-19 13:40:36,427 ************************** Test Execution Finished ************************************ 
+2023-12-19 13:44:05,936 ************************** Test Execution Started ************************************ 
+2023-12-19 13:44:10,720 ValidateTN_IntradoVPC: Test started 
+2023-12-19 13:44:46,944 ValidateTN_IntradoVPC : Test Passed 
+2023-12-19 13:44:48,059 Total number of testcases : 1 
+2023-12-19 13:44:48,059 Number of testcases Passed : 1 
+2023-12-19 13:44:48,059 Number of testcases Failed : 0 
+2023-12-19 13:44:48,059 Number of testcases Skipped  : 0 
+2023-12-19 13:44:48,059 ************************** Test Execution Finished ************************************ 
+2023-12-19 13:47:19,058 ************************** Test Execution Started ************************************ 
+2023-12-19 13:47:23,535 ValidateTN_IntradoVPC: Test started 
+2023-12-19 13:48:07,788 ValidateTN_IntradoVPC : Test Passed 
+2023-12-19 13:48:09,329 Total number of testcases : 1 
+2023-12-19 13:48:09,329 Number of testcases Passed : 1 
+2023-12-19 13:48:09,329 Number of testcases Failed : 0 
+2023-12-19 13:48:09,329 Number of testcases Skipped  : 0 
+2023-12-19 13:48:09,329 ************************** Test Execution Finished ************************************ 
+2023-12-20 14:32:51,024 ************************** Test Execution Started ************************************ 
+2023-12-20 14:32:59,594 ValidateTN_IntradoVPC: Test started 
+2023-12-20 14:34:26,409 ValidateTN_IntradoVPC : Test Passed 
+2023-12-20 14:34:27,617 Total number of testcases : 1 
+2023-12-20 14:34:27,617 Number of testcases Passed : 1 
+2023-12-20 14:34:27,617 Number of testcases Failed : 0 
+2023-12-20 14:34:27,617 Number of testcases Skipped  : 0 
+2023-12-20 14:34:27,617 ************************** Test Execution Finished ************************************ 
+2023-12-20 14:38:58,090 ************************** Test Execution Started ************************************ 
+2023-12-20 14:39:03,925 ValidateTN_IntradoVPC: Test started 
+2023-12-20 14:40:28,167 ValidateTN_IntradoVPC : Test Passed 
+2023-12-20 14:40:29,012 Total number of testcases : 1 
+2023-12-20 14:40:29,012 Number of testcases Passed : 1 
+2023-12-20 14:40:29,012 Number of testcases Failed : 0 
+2023-12-20 14:40:29,012 Number of testcases Skipped  : 0 
+2023-12-20 14:40:29,012 ************************** Test Execution Finished ************************************ 
+2023-12-21 11:16:54,508 ************************** Test Execution Started ************************************ 
+2023-12-21 11:16:59,758 ValidateTN_IntradoVPC: Test started 
+2023-12-21 11:20:46,788 ValidateTN_IntradoVPC : Test Passed 
+2023-12-21 11:20:47,506 Total number of testcases : 1 
+2023-12-21 11:20:47,506 Number of testcases Passed : 1 
+2023-12-21 11:20:47,506 Number of testcases Failed : 0 
+2023-12-21 11:20:47,506 Number of testcases Skipped  : 0 
+2023-12-21 11:20:47,506 ************************** Test Execution Finished ************************************ 
+2023-12-21 11:38:10,236 ************************** Test Execution Started ************************************ 
+2023-12-21 11:38:14,685 ValidateTN_IntradoVPC: Test started 
+2023-12-21 11:40:09,899 ValidateTN_IntradoVPC : Test Passed 
+2023-12-21 11:40:10,621 Total number of testcases : 1 
+2023-12-21 11:40:10,621 Number of testcases Passed : 1 
+2023-12-21 11:40:10,621 Number of testcases Failed : 0 
+2023-12-21 11:40:10,621 Number of testcases Skipped  : 0 
+2023-12-21 11:40:10,621 ************************** Test Execution Finished ************************************ 
+2024-01-10 14:19:08,040 ************************** Test Execution Started ************************************ 
+2024-01-10 14:19:14,794 ValidateTN_IntradoVPC: Test started 
+2024-01-10 14:20:19,833 ValidateTN_IntradoVPC : Test Passed 
+2024-01-10 14:20:20,977 Total number of testcases : 1 
+2024-01-10 14:20:20,977 Number of testcases Passed : 1 
+2024-01-10 14:20:20,977 Number of testcases Failed : 0 
+2024-01-10 14:20:20,977 Number of testcases Skipped  : 0 
+2024-01-10 14:20:20,977 ************************** Test Execution Finished ************************************ 
+2024-01-10 14:23:50,033 ************************** Test Execution Started ************************************ 
+2024-01-10 14:23:52,719 ValidateTN_IntradoVPC: Test started 
+2024-01-10 14:25:23,251 ValidateTN_IntradoVPC : Test Passed 
+2024-01-10 14:25:24,496 Total number of testcases : 1 
+2024-01-10 14:25:24,496 Number of testcases Passed : 1 
+2024-01-10 14:25:24,496 Number of testcases Failed : 0 
+2024-01-10 14:25:24,496 Number of testcases Skipped  : 0 
+2024-01-10 14:25:24,496 ************************** Test Execution Finished ************************************ 
+2024-01-10 14:25:57,824 ************************** Test Execution Started ************************************ 
+2024-01-10 14:26:00,874 ValidateTN_IntradoVPC: Test started 
+2024-01-10 14:27:06,126 ValidateTN_IntradoVPC : Test Passed 
+2024-01-10 14:27:07,296 Total number of testcases : 1 
+2024-01-10 14:27:07,296 Number of testcases Passed : 1 
+2024-01-10 14:27:07,296 Number of testcases Failed : 0 
+2024-01-10 14:27:07,296 Number of testcases Skipped  : 0 
+2024-01-10 14:27:07,296 ************************** Test Execution Finished ************************************ 
+2024-01-10 14:27:25,458 ************************** Test Execution Started ************************************ 
+2024-01-10 14:27:29,254 ValidateTN_IntradoVPC: Test started 
+2024-01-10 14:29:27,253 ValidateTN_IntradoVPC : Test Passed 
+2024-01-10 14:29:28,031 Total number of testcases : 1 
+2024-01-10 14:29:28,031 Number of testcases Passed : 1 
+2024-01-10 14:29:28,031 Number of testcases Failed : 0 
+2024-01-10 14:29:28,031 Number of testcases Skipped  : 0 
+2024-01-10 14:29:28,031 ************************** Test Execution Finished ************************************ 
+2024-01-16 12:56:05,682 ************************** Test Execution Started ************************************ 
+2024-01-16 12:56:10,364 ValidateTN_IntradoVPC: Test started 
+2024-01-16 12:57:15,837 ValidateTN_IntradoVPC : Test Passed 
+2024-01-16 12:57:16,973 Total number of testcases : 1 
+2024-01-16 12:57:16,974 Number of testcases Passed : 1 
+2024-01-16 12:57:16,974 Number of testcases Failed : 0 
+2024-01-16 12:57:16,974 Number of testcases Skipped  : 0 
+2024-01-16 12:57:16,974 ************************** Test Execution Finished ************************************ 
+2024-01-16 12:57:24,585 ************************** Test Execution Started ************************************ 
+2024-01-16 12:57:28,272 ValidateTN_IntradoVPC: Test started 
+2024-01-16 12:59:36,201 ValidateTN_IntradoVPC : Test Passed 
+2024-01-16 12:59:37,113 Total number of testcases : 1 
+2024-01-16 12:59:37,113 Number of testcases Passed : 1 
+2024-01-16 12:59:37,113 Number of testcases Failed : 0 
+2024-01-16 12:59:37,113 Number of testcases Skipped  : 0 
+2024-01-16 12:59:37,113 ************************** Test Execution Finished ************************************ 
+2024-01-16 13:00:34,619 ************************** Test Execution Started ************************************ 
+2024-01-16 13:00:37,359 ValidateTN_IntradoVPC: Test started 
+2024-01-16 13:02:51,085 ValidateTN_IntradoVPC : Test Passed 
+2024-01-16 13:02:52,379 Total number of testcases : 1 
+2024-01-16 13:02:52,379 Number of testcases Passed : 1 
+2024-01-16 13:02:52,379 Number of testcases Failed : 0 
+2024-01-16 13:02:52,379 Number of testcases Skipped  : 0 
+2024-01-16 13:02:52,379 ************************** Test Execution Finished ************************************ 
+2024-01-16 14:22:18,353 ************************** Test Execution Started ************************************ 
+2024-01-16 14:22:21,419 ValidateTN_IntradoVPC: Test started 
+2024-01-16 14:22:54,916 ValidateTN_IntradoVPC : Test Passed 
+2024-01-16 14:22:55,955 Total number of testcases : 1 
+2024-01-16 14:22:55,956 Number of testcases Passed : 1 
+2024-01-16 14:22:55,956 Number of testcases Failed : 0 
+2024-01-16 14:22:55,956 Number of testcases Skipped  : 0 
+2024-01-16 14:22:55,956 ************************** Test Execution Finished ************************************ 
+2024-01-16 14:26:47,069 ************************** Test Execution Started ************************************ 
+2024-01-16 14:26:49,620 ValidateTN_IntradoVPC: Test started 
+2024-01-16 14:40:42,438 ValidateTN_IntradoVPC : Test Passed 
+2024-01-16 14:40:47,167 ************************** Test Execution Started ************************************ 
+2024-01-16 14:40:49,483 ValidateTN_IntradoVPC: Test started 
+2024-01-16 14:43:00,237 ValidateTN_IntradoVPC : Test Passed 
+2024-01-16 14:43:01,557 Total number of testcases : 1 
+2024-01-16 14:43:01,558 Number of testcases Passed : 1 
+2024-01-16 14:43:01,558 Number of testcases Failed : 0 
+2024-01-16 14:43:01,558 Number of testcases Skipped  : 0 
+2024-01-16 14:43:01,558 ************************** Test Execution Finished ************************************ 
+2024-01-16 14:43:59,257 ************************** Test Execution Started ************************************ 
+2024-01-16 14:44:01,684 ValidateTN_IntradoVPC: Test started 
+2024-01-16 14:46:27,224 ValidateTN_IntradoVPC : Test Passed 
+2024-01-16 14:46:27,843 Total number of testcases : 1 
+2024-01-16 14:46:27,843 Number of testcases Passed : 1 
+2024-01-16 14:46:27,843 Number of testcases Failed : 0 
+2024-01-16 14:46:27,843 Number of testcases Skipped  : 0 
+2024-01-16 14:46:27,843 ************************** Test Execution Finished ************************************ 
+2024-01-16 15:00:58,678 ************************** Test Execution Started ************************************ 
+2024-01-16 15:01:01,241 ValidateTN_IntradoVPC: Test started 
+2024-01-16 15:03:22,564 ValidateTN_IntradoVPC : Test Passed 
+2024-01-16 15:03:23,618 Total number of testcases : 1 
+2024-01-16 15:03:23,618 Number of testcases Passed : 1 
+2024-01-16 15:03:23,618 Number of testcases Failed : 0 
+2024-01-16 15:03:23,618 Number of testcases Skipped  : 0 
+2024-01-16 15:03:23,618 ************************** Test Execution Finished ************************************ 
+2024-01-16 15:04:37,424 ************************** Test Execution Started ************************************ 
+2024-01-16 15:04:40,096 ValidateTN_IntradoVPC: Test started 
+2024-01-16 15:06:57,630 ValidateTN_IntradoVPC : Test Passed 
+2024-01-16 15:06:58,527 Total number of testcases : 1 
+2024-01-16 15:06:58,527 Number of testcases Passed : 1 
+2024-01-16 15:06:58,527 Number of testcases Failed : 0 
+2024-01-16 15:06:58,527 Number of testcases Skipped  : 0 
+2024-01-16 15:06:58,527 ************************** Test Execution Finished ************************************ 
+2024-01-16 15:08:32,484 ************************** Test Execution Started ************************************ 
+2024-01-16 15:08:34,733 ValidateTN_IntradoVPC: Test started 
+2024-01-16 15:09:49,603 ************************** Test Execution Started ************************************ 
+2024-01-16 15:09:52,995 ValidateTN_IntradoVPC: Test started 
+2024-01-16 15:12:35,121 ************************** Test Execution Started ************************************ 
+2024-01-16 15:12:37,408 ValidateTN_IntradoVPC: Test started 
+2024-01-16 15:14:41,701 ValidateTN_IntradoVPC : Test Passed 
+2024-01-16 15:14:42,406 Total number of testcases : 1 
+2024-01-16 15:14:42,406 Number of testcases Passed : 1 
+2024-01-16 15:14:42,406 Number of testcases Failed : 0 
+2024-01-16 15:14:42,406 Number of testcases Skipped  : 0 
+2024-01-16 15:14:42,406 ************************** Test Execution Finished ************************************ 
+2024-01-16 15:18:00,300 ************************** Test Execution Started ************************************ 
+2024-01-16 15:18:02,564 ValidateTN_IntradoVPC: Test started 
+2024-01-16 15:20:26,821 ValidateTN_IntradoVPC : Test Passed 
+2024-01-16 15:20:27,599 Total number of testcases : 1 
+2024-01-16 15:20:27,599 Number of testcases Passed : 1 
+2024-01-16 15:20:27,599 Number of testcases Failed : 0 
+2024-01-16 15:20:27,599 Number of testcases Skipped  : 0 
+2024-01-16 15:20:27,599 ************************** Test Execution Finished ************************************ 
+2024-01-16 15:25:21,052 ************************** Test Execution Started ************************************ 
+2024-01-16 15:25:24,173 ValidateTN_IntradoVPC: Test started 
+2024-01-16 15:26:02,370 ValidateTN_IntradoVPC : Test Passed 
+2024-01-16 15:26:02,963 Total number of testcases : 1 
+2024-01-16 15:26:02,963 Number of testcases Passed : 1 
+2024-01-16 15:26:02,963 Number of testcases Failed : 0 
+2024-01-16 15:26:02,963 Number of testcases Skipped  : 0 
+2024-01-16 15:26:02,963 ************************** Test Execution Finished ************************************ 
+2024-01-16 15:27:18,254 ************************** Test Execution Started ************************************ 
+2024-01-16 15:27:21,023 ValidateTN_IntradoVPC: Test started 
+2024-01-16 15:28:01,859 ValidateTN_IntradoVPC : Test Passed 
+2024-01-16 15:28:02,466 Total number of testcases : 1 
+2024-01-16 15:28:02,466 Number of testcases Passed : 1 
+2024-01-16 15:28:02,466 Number of testcases Failed : 0 
+2024-01-16 15:28:02,466 Number of testcases Skipped  : 0 
+2024-01-16 15:28:02,466 ************************** Test Execution Finished ************************************ 
+2024-01-16 15:31:04,391 ************************** Test Execution Started ************************************ 
+2024-01-16 15:31:06,657 ValidateTN_IntradoVPC: Test started 
+2024-01-16 15:34:20,652 ValidateTN_IntradoVPC : Test Passed 
+2024-01-16 15:34:21,379 Total number of testcases : 1 
+2024-01-16 15:34:21,379 Number of testcases Passed : 1 
+2024-01-16 15:34:21,379 Number of testcases Failed : 0 
+2024-01-16 15:34:21,379 Number of testcases Skipped  : 0 
+2024-01-16 15:34:21,379 ************************** Test Execution Finished ************************************ 
+2024-01-16 15:38:05,785 ************************** Test Execution Started ************************************ 
+2024-01-16 15:38:07,973 ValidateTN_IntradoVPC: Test started 
+2024-01-16 15:41:19,183 ValidateTN_IntradoVPC : Test Passed 
+2024-01-16 15:41:19,885 Total number of testcases : 1 
+2024-01-16 15:41:19,885 Number of testcases Passed : 1 
+2024-01-16 15:41:19,885 Number of testcases Failed : 0 
+2024-01-16 15:41:19,885 Number of testcases Skipped  : 0 
+2024-01-16 15:41:19,885 ************************** Test Execution Finished ************************************ 
+2024-01-16 15:45:20,380 ************************** Test Execution Started ************************************ 
+2024-01-16 15:45:22,620 ValidateTN_IntradoVPC: Test started 
+2024-01-16 15:45:57,151 ValidateTN_IntradoVPC : Test Passed 
+2024-01-16 15:45:57,864 Total number of testcases : 1 
+2024-01-16 15:45:57,864 Number of testcases Passed : 1 
+2024-01-16 15:45:57,864 Number of testcases Failed : 0 
+2024-01-16 15:45:57,864 Number of testcases Skipped  : 0 
+2024-01-16 15:45:57,864 ************************** Test Execution Finished ************************************ 
+2024-01-16 15:46:08,152 ************************** Test Execution Started ************************************ 
+2024-01-16 15:46:11,634 ValidateTN_IntradoVPC: Test started 
+2024-01-16 15:52:11,663 ValidateTN_IntradoVPC : Test Passed 
+2024-01-16 15:52:12,356 Total number of testcases : 1 
+2024-01-16 15:52:12,356 Number of testcases Passed : 1 
+2024-01-16 15:52:12,356 Number of testcases Failed : 0 
+2024-01-16 15:52:12,356 Number of testcases Skipped  : 0 
+2024-01-16 15:52:12,356 ************************** Test Execution Finished ************************************ 
+2024-01-16 15:53:40,375 ************************** Test Execution Started ************************************ 
+2024-01-16 15:53:42,585 ValidateTN_IntradoVPC: Test started 
+2024-01-16 15:54:13,355 ************************** Test Execution Started ************************************ 
+2024-01-16 15:54:18,102 ValidateTN_IntradoVPC: Test started 
+2024-01-16 15:54:45,825 ************************** Test Execution Started ************************************ 
+2024-01-16 15:54:49,719 ValidateTN_IntradoVPC: Test started 
+2024-01-16 15:55:28,768 ValidateTN_IntradoVPC : Test Passed 
+2024-01-16 15:55:29,350 Total number of testcases : 1 
+2024-01-16 15:55:29,350 Number of testcases Passed : 1 
+2024-01-16 15:55:29,350 Number of testcases Failed : 0 
+2024-01-16 15:55:29,350 Number of testcases Skipped  : 0 
+2024-01-16 15:55:29,350 ************************** Test Execution Finished ************************************ 
+2024-01-16 16:21:47,463 ************************** Test Execution Started ************************************ 
+2024-01-16 16:21:50,234 ValidateTN_IntradoVPC: Test started 
+2024-01-16 16:25:22,130 ValidateTN_IntradoVPC : Test Passed 
+2024-01-16 16:25:22,845 Total number of testcases : 1 
+2024-01-16 16:25:22,845 Number of testcases Passed : 1 
+2024-01-16 16:25:22,845 Number of testcases Failed : 0 
+2024-01-16 16:25:22,845 Number of testcases Skipped  : 0 
+2024-01-16 16:25:22,845 ************************** Test Execution Finished ************************************ 
+2024-01-16 16:26:28,777 ************************** Test Execution Started ************************************ 
+2024-01-16 16:26:36,929 ValidateTN_IntradoVPC: Test started 
+2024-01-16 16:27:42,449 ValidateTN_IntradoVPC : Test Passed 
+2024-01-16 16:27:43,524 Total number of testcases : 1 
+2024-01-16 16:27:43,524 Number of testcases Passed : 1 
+2024-01-16 16:27:43,524 Number of testcases Failed : 0 
+2024-01-16 16:27:43,524 Number of testcases Skipped  : 0 
+2024-01-16 16:27:43,524 ************************** Test Execution Finished ************************************ 
+2024-01-16 16:28:19,520 ************************** Test Execution Started ************************************ 
+2024-01-16 16:28:21,774 ValidateTN_IntradoVPC: Test started 
+2024-01-16 16:31:49,894 ValidateTN_IntradoVPC : Test Passed 
+2024-01-16 16:31:50,582 Total number of testcases : 1 
+2024-01-16 16:31:50,582 Number of testcases Passed : 1 
+2024-01-16 16:31:50,582 Number of testcases Failed : 0 
+2024-01-16 16:31:50,582 Number of testcases Skipped  : 0 
+2024-01-16 16:31:50,582 ************************** Test Execution Finished ************************************ 
+2024-01-16 16:37:49,783 ************************** Test Execution Started ************************************ 
+2024-01-16 16:37:51,959 ValidateTN_IntradoVPC: Test started 
+2024-01-16 16:41:10,860 ValidateTN_IntradoVPC : Test Passed 
+2024-01-16 16:41:11,777 Total number of testcases : 1 
+2024-01-16 16:41:11,777 Number of testcases Passed : 1 
+2024-01-16 16:41:11,777 Number of testcases Failed : 0 
+2024-01-16 16:41:11,777 Number of testcases Skipped  : 0 
+2024-01-16 16:41:11,777 ************************** Test Execution Finished ************************************ 
+2024-01-17 13:28:02,398 ************************** Test Execution Started ************************************ 
+2024-01-17 13:28:07,130 ValidateTN_IntradoVPC: Test started 
+2024-01-17 13:28:12,450 ValidateTN_IntradoVPC : Test Passed 
+2024-01-17 13:28:12,463 ValidateTN_IntradoVPC : Test Failed : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.217)
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1a7bab39c4ec958321d170e067a14861, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.217, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\PGOYEL~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53390}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53390/devtoo..., se:cdpVersion: 120.0.6099.217, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1a7bab39c4ec958321d170e067a14861 
+2024-01-17 15:55:14,892 ************************** Test Execution Started ************************************ 
+2024-01-17 15:55:18,479 ValidateTN_IntradoVPC: Test started 
+2024-01-17 16:04:01,064 ************************** Test Execution Started ************************************ 
+2024-01-17 16:04:03,649 ValidateTN_IntradoVPC: Test started 
+2024-01-17 16:05:18,534 ************************** Test Execution Started ************************************ 
+2024-01-17 16:05:21,070 ValidateTN_IntradoVPC: Test started 
+2024-01-17 16:09:35,143 ValidateTN_IntradoVPC : Test Passed 
+2024-01-17 16:09:35,948 Total number of testcases : 1 
+2024-01-17 16:09:35,948 Number of testcases Passed : 1 
+2024-01-17 16:09:35,948 Number of testcases Failed : 0 
+2024-01-17 16:09:35,948 Number of testcases Skipped  : 0 
+2024-01-17 16:09:35,948 ************************** Test Execution Finished ************************************ 
+2024-01-18 09:47:45,611 ************************** Test Execution Started ************************************ 
+2024-01-18 09:47:51,445 ValidateTN_IntradoVPC: Test started 
+2024-01-18 09:51:32,601 ValidateTN_IntradoVPC : Test Passed 
+2024-01-18 09:51:34,000 Total number of testcases : 1 
+2024-01-18 09:51:34,000 Number of testcases Passed : 1 
+2024-01-18 09:51:34,000 Number of testcases Failed : 0 
+2024-01-18 09:51:34,000 Number of testcases Skipped  : 0 
+2024-01-18 09:51:34,000 ************************** Test Execution Finished ************************************ 
+2024-01-18 09:53:45,588 ************************** Test Execution Started ************************************ 
+2024-01-18 09:53:50,114 ValidateTN_IntradoVPC: Test started 
+2024-01-18 09:54:33,968 ValidateTN_IntradoVPC : Test Passed 
+2024-01-18 09:54:36,395 Total number of testcases : 1 
+2024-01-18 09:54:36,395 Number of testcases Passed : 1 
+2024-01-18 09:54:36,395 Number of testcases Failed : 0 
+2024-01-18 09:54:36,395 Number of testcases Skipped  : 0 
+2024-01-18 09:54:36,395 ************************** Test Execution Finished ************************************ 
+2024-01-18 09:56:36,362 ************************** Test Execution Started ************************************ 
+2024-01-18 09:56:40,617 ValidateTN_IntradoVPC: Test started 
+2024-01-18 09:57:35,286 ValidateTN_IntradoVPC : Test Passed 
+2024-01-18 09:57:35,994 Total number of testcases : 1 
+2024-01-18 09:57:35,994 Number of testcases Passed : 1 
+2024-01-18 09:57:35,994 Number of testcases Failed : 0 
+2024-01-18 09:57:35,994 Number of testcases Skipped  : 0 
+2024-01-18 09:57:35,994 ************************** Test Execution Finished ************************************ 
+2024-01-18 09:58:26,465 ************************** Test Execution Started ************************************ 
+2024-01-18 09:58:30,981 ValidateTN_IntradoVPC: Test started 
+2024-01-18 09:59:10,811 ValidateTN_IntradoVPC : Test Passed 
+2024-01-18 09:59:11,750 Total number of testcases : 1 
+2024-01-18 09:59:11,750 Number of testcases Passed : 1 
+2024-01-18 09:59:11,751 Number of testcases Failed : 0 
+2024-01-18 09:59:11,751 Number of testcases Skipped  : 0 
+2024-01-18 09:59:11,751 ************************** Test Execution Finished ************************************ 
+2024-01-18 10:00:34,056 ************************** Test Execution Started ************************************ 
+2024-01-18 10:00:38,747 ValidateTN_IntradoVPC: Test started 
+2024-01-18 10:02:44,529 ************************** Test Execution Started ************************************ 
+2024-01-18 10:02:48,866 ValidateTN_IntradoVPC: Test started 
+2024-01-18 10:03:45,590 ValidateTN_IntradoVPC : Test Passed 
+2024-01-18 10:03:46,427 Total number of testcases : 1 
+2024-01-18 10:03:46,427 Number of testcases Passed : 1 
+2024-01-18 10:03:46,427 Number of testcases Failed : 0 
+2024-01-18 10:03:46,427 Number of testcases Skipped  : 0 
+2024-01-18 10:03:46,427 ************************** Test Execution Finished ************************************ 
+2024-01-25 11:10:55,417 ************************** Test Execution Started ************************************ 
+2024-01-25 11:11:03,167 ValidateTN_IntradoVPC: Test started 
+2024-01-25 11:11:48,080 ValidateTN_IntradoVPC : Test Passed 
+2024-01-25 11:11:48,804 Total number of testcases : 1 
+2024-01-25 11:11:48,804 Number of testcases Passed : 1 
+2024-01-25 11:11:48,804 Number of testcases Failed : 0 
+2024-01-25 11:11:48,804 Number of testcases Skipped  : 0 
+2024-01-25 11:11:48,804 ************************** Test Execution Finished ************************************ 
+2024-01-25 11:13:47,369 ************************** Test Execution Started ************************************ 
+2024-01-25 11:13:53,125 ValidateTN_IntradoVPC: Test started 
+2024-01-25 11:15:57,423 ValidateTN_IntradoVPC : Test Passed 
+2024-01-25 11:15:58,127 Total number of testcases : 1 
+2024-01-25 11:15:58,127 Number of testcases Passed : 1 
+2024-01-25 11:15:58,127 Number of testcases Failed : 0 
+2024-01-25 11:15:58,127 Number of testcases Skipped  : 0 
+2024-01-25 11:15:58,127 ************************** Test Execution Finished ************************************ 
+2024-01-25 11:16:17,479 ************************** Test Execution Started ************************************ 
+2024-01-25 11:16:22,114 ValidateTN_IntradoVPC: Test started 
+2024-01-25 11:19:53,607 ValidateTN_IntradoVPC : Test Passed 
+2024-01-25 11:19:54,676 Total number of testcases : 1 
+2024-01-25 11:19:54,676 Number of testcases Passed : 1 
+2024-01-25 11:19:54,676 Number of testcases Failed : 0 
+2024-01-25 11:19:54,676 Number of testcases Skipped  : 0 
+2024-01-25 11:19:54,676 ************************** Test Execution Finished ************************************ 
